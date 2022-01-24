@@ -18,3 +18,7 @@
 最后呢，小编有一个演示站，这个演示站目前有很多好看的样式，但是在CDN上存放的样式只有几种，以后会更新这些样式的~
 
 [演示站：爱糖微](https://www.aitwei.cn/)
+
+**引用方式**
+
+https://cdn.jsdelivr.net/gh/acloudtwei/CDN/js/mouse.js
